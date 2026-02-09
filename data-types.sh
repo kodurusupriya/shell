@@ -6,4 +6,4 @@ echo "sum is: $SUM"
 
 #array
 FRUITS=("apple" "banana" "grapes")
-echo :fruits are: ${FRUITS[@]}
+echo "fruits are: ${FRUITS[@]}"
