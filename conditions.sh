@@ -1,5 +1,5 @@
 #!/bin/bash
-NUMBER =25 
+NUMBER =$1
 # -gt = greater than 
 # -lt = less than
 # -eq = equal
