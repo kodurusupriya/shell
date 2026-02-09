@@ -1,3 +1,3 @@
 #!/bin/bash
 timestamp=$(date)
-echo "script executedar: $timestamp"
+echo "script executed at: $timestamp"
