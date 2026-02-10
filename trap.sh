@@ -3,6 +3,5 @@
 set -e
  echo "hello world"
  echo "i am learning shell"
- echo "printing error here"
+ eccho "printing error here"
  echo "no error"
- 
