@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e 
-trap 'echo "There is an error in $LINEEND, command: $BASH-COMMAND"' ERR
+trap 'echo "There is an error in $LINENO, command: $BASH-COMMAND"' ERR
 USERID=$(id -u)
 LOGS_FOLDER="/var/log/shell"
 LOGS_FILE="/var/log/shell/$0.log"
