@@ -13,4 +13,4 @@ count=1
 while IFS= read -r line; do
   # Process each line here
   echo "$line"
-done < script-1.sh # input which file to read
+done < script1.sh # input which file to read
